@@ -104,13 +104,6 @@
 		"icon": "http://a5.mzstatic.com/us/r30/Purple6/v4/1a/92/48/1a9248e7-b911-c1b4-5567-f37e600a7962/icon175x175.jpeg"
 	},
 	{
-		"name": "篝火",
-		"desc": "社交App",
-		"ios": "https://itunes.apple.com/us/app/gou-huo/id1001476888?ls=1&mt=8",
-		"android": "",
-		"icon": "http://a2.mzstatic.com/us/r30/Purple5/v4/42/50/5a/42505a8d-3c7a-e49a-16e3-422315f24cf1/icon175x175.png"
-	},
-	{
 		"name": "天才段子手",
 		"desc": "段子",
 		"ios": "https://itunes.apple.com/us/app/tian-cai-duan-zi-shou-shen/id992312701?l=zh&ls=1&mt=8",
